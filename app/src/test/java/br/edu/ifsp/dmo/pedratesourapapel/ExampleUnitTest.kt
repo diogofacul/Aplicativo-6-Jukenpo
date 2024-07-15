@@ -1,4 +1,4 @@
-package br.edu.ifsp.dmo.listadecontatos
+package br.edu.ifsp.dmo.pedratesourapapel
 
 import org.junit.Test
 

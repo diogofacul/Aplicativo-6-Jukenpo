@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Lista de Contatos"
+rootProject.name = "Pedra Tesoura e Papel"
 include(":app")

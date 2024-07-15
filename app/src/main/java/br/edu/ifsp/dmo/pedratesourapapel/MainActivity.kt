@@ -1,4 +1,4 @@
-package br.edu.ifsp.dmo.listadecontatos
+package br.edu.ifsp.dmo.pedratesourapapel
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
